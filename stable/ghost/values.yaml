@@ -3,6 +3,8 @@
 ##
 image: tompizmor/ghost:1.20.3-r0
 
+# Minor change to test
+
 ## Busybox image used to configure volume permissions
 ##
 volumePermissions:
